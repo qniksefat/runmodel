@@ -5,4 +5,4 @@ layout: page
 
 # Simple JS Image Classifiers
 
-Linked
+## `eagle` to classify if an eagle is golden or bald?
